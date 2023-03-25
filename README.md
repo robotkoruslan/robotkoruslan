@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :speech_balloon: I am a Full Stack developer from Ukraine :ukraine:
+- :speech_balloon: I am a Full Stack developer
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
