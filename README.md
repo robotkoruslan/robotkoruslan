@@ -3,6 +3,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D1%80%D1%83%D1%81%D0%BB%D0%B0%D0%BD-%D1%80%D0%BE%D0%B1%D0%BE%D1%82%D1%8C%D0%BA%D0%BE-3ba799152/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:robotko.ruslan@gmail.com)
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=telegram&logoColor=white)](https://t.me/ruslan_robotko)
 
 I'm a software developer from Ukraine. I specialize in a variety of technologies, including:
 
