@@ -15,7 +15,7 @@ I'm a software developer from Ukraine. I specialize in a variety of technologies
 ## Last projects
 
 ### 1. Artelize - Bridging Gaps in Performing Arts
-Artelize is a platform dedicated to the performing arts, providing a space for both fans and professionals. It aims to democratize access to classical and contemporary art forms, from opera and ballet to jazz and rock. The platform is set to launch its BETA version in California, US. [Check it out](https://artelize.com) or [sign up for the waiting list](https://www.artelize.com).
+Artelize is a platform dedicated to the performing arts, providing a space for both fans and professionals. It aims to democratize access to classical and contemporary art forms, from opera and ballet to jazz and rock. The platform is set to launch its BETA version in California, US. 
 
 ### 2. Auto Repair Booking App
  The application allows users to find and book auto repair workshops, manage their vehicles, and pay for services within the app. Additionally, users can control their bookings, view order history, and more. The mobile app helps users find service stations, view available services, prices, and customer reviews.
