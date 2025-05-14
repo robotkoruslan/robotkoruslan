@@ -39,7 +39,7 @@ Artelize is a platform dedicated to the performing arts, providing a space for b
 
 ## Activity
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robotkoruslan&theme=dracula)](https://github.com/robotkoruslan/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robotkoruslan&theme=github-compact)](https://github.com/robotkoruslan/github-readme-activity-graph)
 
 ## <img src="https://github.com/robotkoruslan/robotkoruslan/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.5rem;" width="36px" height="32px">  GitHub Stats:
 
