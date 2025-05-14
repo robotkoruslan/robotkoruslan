@@ -41,10 +41,10 @@ Artelize is a platform dedicated to the performing arts, providing a space for b
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robotkoruslan&theme=github-compact)](https://github.com/robotkoruslan/github-readme-activity-graph)
 
-## <img src="https://github.com/robotkoruslan/robotkoruslan/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.5rem;" width="36px" height="32px">  GitHub Stats:
+## GitHub Stats
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=robotkoruslan&theme=radical&hide_border=true)<br/>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=robotkoruslan&theme=radical&hide_border=true)](https://git.io/streak-stats)<br/>
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=robotkoruslan&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/robotkoruslan/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=robotkoruslan&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/robotkoruslan/github-readme-stats#gh-light-mode-only)
 
 ##  <img src="https://github.com/robotkoruslan/robotkoruslan/blob/main/trophy.gif?raw=true" style="margin-bottom: -0.1rem;" width="38px" height="32px"> GitHub Trophies:
 
