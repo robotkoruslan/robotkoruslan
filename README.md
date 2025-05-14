@@ -37,6 +37,10 @@ Artelize is a platform dedicated to the performing arts, providing a space for b
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 
 
+## Activity
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=robotkoruslan&theme=dracula)](https://github.com/robotkoruslan/github-readme-activity-graph)
+
 ## <img src="https://github.com/robotkoruslan/robotkoruslan/blob/main/charts_.gif?raw=true" style="margin-bottom: -0.5rem;" width="36px" height="32px">  GitHub Stats:
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=robotkoruslan&theme=radical&hide_border=true)<br/>
